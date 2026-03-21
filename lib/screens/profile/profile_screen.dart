@@ -24,7 +24,7 @@ class ProfileScreen extends StatelessWidget {
                   backgroundColor: AppColors.accentLavender,
                   child: Text('A', style: AppTypography.subheading(context)),
                 ),
-                title: Text('Ramesh Sir', style: AppTypography.subheading(context)),
+                title: Text('Niru', style: AppTypography.subheading(context)),
                 subtitle: Text('Minimal • Temperate climate', style: AppTypography.body(context)),
               ),
               const SizedBox(height: AppSpacing.lg),

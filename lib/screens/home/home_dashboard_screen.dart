@@ -16,7 +16,7 @@ class HomeDashboardScreen extends StatefulWidget {
 
 class _HomeDashboardScreenState extends State<HomeDashboardScreen> {
   FytTab _tab = FytTab.home;
-  final String userName = 'Ramesh Sir';
+  final String userName = 'Niru';
 
   @override
   Widget build(BuildContext context) {
