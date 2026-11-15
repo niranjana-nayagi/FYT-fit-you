@@ -31,10 +31,7 @@ migrate_working_dir/
 .pub-cache/
 .pub/
 /build/
-<<<<<<< HEAD
-=======
 flutter_*.log
->>>>>>> feature/body-metric-module-clean
 /coverage/
 
 # Symbolication related
@@ -47,8 +44,6 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
-<<<<<<< HEAD
-=======
 
 
 
@@ -58,4 +53,3 @@ venv/
 __pycache__/
 *.pyc
 /venv/
->>>>>>> feature/body-metric-module-clean
